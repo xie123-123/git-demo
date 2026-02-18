@@ -1,0 +1,11 @@
+git config --global user.name "你的名字"
+
+git config --global user.email "你的邮箱"
+
+git init    初始化本地库
+
+git status    查看本地库状态
+
+git add 添加暂存区
+
+git commit -m    提交本地库
