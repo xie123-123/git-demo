@@ -1,3 +1,5 @@
+修改文件→→→添加暂存区→→→提交本地库
+
 git config --global user.name "你的名字"
 
 git config --global user.email "你的邮箱"
@@ -9,3 +11,7 @@ git status    查看本地库状态
 git add 添加暂存区
 
 git commit -m    提交本地库
+
+git reflog      查看版本信息
+
+cat 查看文件内容
