@@ -30,3 +30,8 @@ git merge +分支名    合并分支到当前分支
 git 532423
 git12345
 
+git remote -v     查看远程库别名
+
+git remote 别名  远程库链接    设置远程库别名
+
+git push +别名 +分支名称  推送分支到本地库
